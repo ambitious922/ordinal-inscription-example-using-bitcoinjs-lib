@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/fboucquez/ordinal-inscription-example-using-bitcoinjs-lib#readme",
   "dependencies": {
+    "axios": "^1.7.7",
     "bitcoinjs-lib": "^6.1.5",
     "ecpair": "^2.1.0",
     "jest": "^29.7.0",
